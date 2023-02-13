@@ -3,4 +3,5 @@ title: "Practice Activity 6"
 format: html
 editor: source
 self-contained: true
+author: Siya, Dale, Ben, Seina
 ---
